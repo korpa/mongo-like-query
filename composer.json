@@ -1,7 +1,7 @@
 {
     "name": "mongo-like-query/mongo-like-query",
     "type": "library",
-    "description": "Library for creating SEPA XML files",
+    "description": "Library for querying arrays in mongodb like style",
     "keywords": ["array","query"],
     "homepage": "https://github.com/korpa/mongo-like-query",
     "license": "MIT",
